@@ -15,7 +15,7 @@ A fully interactive Sudoku game with GUI built in Python using Pygame and Tkinte
 ```bash
 pip install -r requirements.txt
 python main.py
-
+```
 
 
 
