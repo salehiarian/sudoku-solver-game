@@ -16,12 +16,3 @@ A fully interactive Sudoku game with GUI built in Python using Pygame and Tkinte
 pip install -r requirements.txt
 python main.py
 
-
-📸 Solver Demo Screenshot
-Here’s a snapshot of the Sudoku board solved instantly by the built-in solver:
-
-![Screenshot 2025-04-17 at 7 50 10 PM](https://github.com/user-attachments/assets/9dea51a4-0edc-4e36-95b4-e362bdb22662)
-
-
-
-🧠 The solver uses a backtracking algorithm to solve any valid board within milliseconds!
