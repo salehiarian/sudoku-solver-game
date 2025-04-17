@@ -22,8 +22,9 @@ python main.py
 ## 📸 Solver Demo Screenshot
 Here’s a snapshot of the Sudoku board solved instantly by the built-in solver:
 
-
-![Demo screenshot](https://github.com/user-attachments/assets/9dea51a4-0edc-4e36-95b4-e362bdb22662)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9dea51a4-0edc-4e36-95b4-e362bdb22662" width="400" alt="Demo screenshot">
+</p>
 
 
 > 🧠 The solver uses a backtracking algorithm to solve any valid board within milliseconds!
