@@ -1,0 +1,21 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual env
+.venv/
+
+# PyInstaller build
+build/
+dist/
+*.spec
+
+# macOS metadata
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+tests/
