@@ -5,7 +5,7 @@ A fully interactive Sudoku game with GUI built in Python using Pygame and Tkinte
 ## 🚀 Features
 - Random puzzle generation
 - Manual play + real-time validation
-- Auto-solver with backtracking
+- Auto-solver with backtracking algorithm
 - Visual timer & mistake tracking
 - Clean Architecture design
 
